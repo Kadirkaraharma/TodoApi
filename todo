@@ -1,5 +1,3 @@
-gh.users('kullanıcı').get()
-{'public_repos': 11, 'name': u'kullanıcı', ...}
 todo = {
 pendings:[],
 inProgress:[],
